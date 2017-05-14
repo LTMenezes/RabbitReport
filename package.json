@@ -1,0 +1,16 @@
+{
+  "name": "rabbit-report",
+  "version": "1.0.0",
+  "description": "rabbitMQ reports in your terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "LTMenezes",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "request": "^2.81.0"
+  }
+}
