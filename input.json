@@ -1,7 +1,7 @@
 ﻿{
-  "rabbitAddress": adress,
-  "rabbitUser": user,
-  "rabbitPass": pass,
+  "rabbitAddress": "address",
+  "rabbitUser": "user",
+  "rabbitPass": "pass",
   "queuesToMonitor": [
     "vhost/example.q"
   ]
